@@ -1,0 +1,50 @@
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\bin\Debug\TimKhoa.exe
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\bin\Debug\TimKhoa.pdb
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Form1.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Properties.Resources.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csproj.GenerateResource.Cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.exe
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.pdb
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.frmThongTin.resources
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.exe
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.pdb
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\bin\Debug\TimKhoa.exe
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\bin\Debug\TimKhoa.pdb
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csprojResolveAssemblyReference.cache
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Form1.resources
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.frmThongTin.resources
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Properties.Resources.resources
+D:\Lap trinh C#\Projects\WindowFrom\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csproj.GenerateResource.Cache
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\bin\Debug\TimKhoa.exe
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\bin\Debug\TimKhoa.pdb
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Form1.resources
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\obj\Debug\TimKhoa.frmDichChuyenLuocDoQuanHe.resources
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\obj\Debug\TimKhoa.frmThongTin.resources
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Properties.Resources.resources
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csproj.GenerateResource.cache
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csproj.CoreCompileInputs.cache
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\obj\Debug\TimKhoa.exe
+C:\Users\namdaik\Downloads\HienLV\HienLV\TimKhoa\TimKhoa\obj\Debug\TimKhoa.pdb
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\bin\Debug\TimKhoa.exe
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\bin\Debug\TimKhoa.pdb
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csprojAssemblyReference.cache
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Form1.resources
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.frmDichChuyenLuocDoQuanHe.resources
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.frmThongTin.resources
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Properties.Resources.resources
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csproj.GenerateResource.cache
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csproj.CoreCompileInputs.cache
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.exe
+C:\Users\nunac\Downloads\PhamThiHien_LV\PhamThiHien_LV\TimKhoa (1)\TimKhoa\TimKhoa\obj\Debug\TimKhoa.pdb
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\bin\Debug\TimKhoa.exe
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\bin\Debug\TimKhoa.pdb
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Menu.resources
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Dichchuyen.resources
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.ThongTin.resources
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.Properties.Resources.resources
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csproj.GenerateResource.cache
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csproj.CoreCompileInputs.cache
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.exe
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.pdb
+C:\Users\nunac\OneDrive\Máy tính\DoAn\TimKhoa\TimKhoa\obj\Debug\TimKhoa.csprojAssemblyReference.cache
